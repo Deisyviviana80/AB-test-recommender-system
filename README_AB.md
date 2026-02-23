@@ -108,7 +108,7 @@ jupyter notebook AB_mejorado.ipynb
 
 ## 👩‍💻 Autora
 
-Proyecto desarrollado como parte del programa de **Análisis de Datos — TRIPLETEN**.
+Proyecto desarrollado como parte del programa de **Análisis de Datos — Practicum by Yandex**.
 
 ---
 
